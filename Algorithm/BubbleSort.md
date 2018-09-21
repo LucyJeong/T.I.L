@@ -12,6 +12,7 @@
 - **Worst-case scenario**: The array is in reverse order; we have to "bubble" each of the *n* elements all the way across the array, and since we can only fully bubble on element into position per pass, we must do this *n* times.
 - **Best-case scenario**: The array is already perfectly sorted, and we make no swap on the first pass.
 
+## 코드
 ```swift
 func bubbleSort(_ array: [Int]) -> [Int]
 {
@@ -46,8 +47,10 @@ for i in 0..<arr.count
     }
 }
 ```
+
 ---
 refer to
 - [Bubble Sort : 거품 정렬](http://bowbowbow.tistory.com/10)
 - [Bubble Sort of CS50](https://youtu.be/RT-hUXUWQ2I)
 - [Swift3 ) Swift로 버블정렬(Bubble Sort)짜보기](https://zeddios.tistory.com/67)
+- https://tech.io/playgrounds/506/sorting-in-swift/bubble-sort
