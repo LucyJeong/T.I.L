@@ -25,6 +25,7 @@ Today I Learn </br> 오늘 배운 것들을 기록합니다.
 
 # CS
 - [CS Basic](/CS/CSBasic.md)
+  - Static의 의미, OOP, Overloading vs Overriding, Get / Post etc.
 
 # Automation
 - [이메일 자동화](/Automation/EmailAutomation.md)
